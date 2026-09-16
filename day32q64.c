@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
 long long n;
 int freq[10] = {0};
